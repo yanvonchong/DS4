@@ -22,7 +22,7 @@ namespace Laboratorio2
     public class Client
     {
 
-
+        //Informacion Personal
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
