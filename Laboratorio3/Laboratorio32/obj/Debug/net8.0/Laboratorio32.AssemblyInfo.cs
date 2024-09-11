@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Laboratorio32")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ed0c147149f252a87a03877c2e2bcc9ab437fc5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+703f4406495408969b4e0b5bea5ba669a93ae61d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Laboratorio32")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Laboratorio32")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
