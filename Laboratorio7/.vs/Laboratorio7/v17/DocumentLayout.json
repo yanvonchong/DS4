@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Topito_507\\source\\repos\\Laboratorio7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0E5456-F422-48DE-8E08-4FB92F61A636}|Laboratorio7\\Laboratorio7.csproj|c:\\users\\topito_507\\source\\repos\\laboratorio7\\laboratorio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0E5456-F422-48DE-8E08-4FB92F61A636}|Laboratorio7\\Laboratorio7.csproj|solutionrelative:laboratorio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0E5456-F422-48DE-8E08-4FB92F61A636}|Laboratorio7\\Laboratorio7.csproj|c:\\users\\topito_507\\source\\repos\\laboratorio7\\laboratorio7\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0E5456-F422-48DE-8E08-4FB92F61A636}|Laboratorio7\\Laboratorio7.csproj|solutionrelative:laboratorio7\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0E5456-F422-48DE-8E08-4FB92F61A636}|Laboratorio7\\Laboratorio7.csproj|c:\\users\\topito_507\\source\\repos\\laboratorio7\\laboratorio7\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0E5456-F422-48DE-8E08-4FB92F61A636}|Laboratorio7\\Laboratorio7.csproj|solutionrelative:laboratorio7\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451C4E3-2998-4794-B4AE-3302535D8EF4}|Laboratorio7-2\\Laboratorio7-2.csproj|c:\\users\\topito_507\\source\\repos\\laboratorio7\\laboratorio7-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451C4E3-2998-4794-B4AE-3302535D8EF4}|Laboratorio7-2\\Laboratorio7-2.csproj|solutionrelative:laboratorio7-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451C4E3-2998-4794-B4AE-3302535D8EF4}|Laboratorio7-2\\Laboratorio7-2.csproj|c:\\users\\topito_507\\source\\repos\\laboratorio7\\laboratorio7-2\\juegodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451C4E3-2998-4794-B4AE-3302535D8EF4}|Laboratorio7-2\\Laboratorio7-2.csproj|solutionrelative:laboratorio7-2\\juegodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E451C4E3-2998-4794-B4AE-3302535D8EF4}|Laboratorio7-2\\Laboratorio7-2.csproj|c:\\users\\topito_507\\source\\repos\\laboratorio7\\laboratorio7-2\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E451C4E3-2998-4794-B4AE-3302535D8EF4}|Laboratorio7-2\\Laboratorio7-2.csproj|solutionrelative:laboratorio7-2\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dado.cs",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\Laboratorio7\\Laboratorio7-2\\Dado.cs",
+              "RelativeDocumentMoniker": "Laboratorio7-2\\Dado.cs",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\Laboratorio7\\Laboratorio7-2\\Dado.cs",
+              "RelativeToolTip": "Laboratorio7-2\\Dado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:53:05.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JuegodeDados.cs",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\Laboratorio7\\Laboratorio7-2\\JuegodeDados.cs",
+              "RelativeDocumentMoniker": "Laboratorio7-2\\JuegodeDados.cs",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\Laboratorio7\\Laboratorio7-2\\JuegodeDados.cs",
+              "RelativeToolTip": "Laboratorio7-2\\JuegodeDados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:52:29.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\Laboratorio7\\Laboratorio7-2\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio7-2\\Program.cs",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\Laboratorio7\\Laboratorio7-2\\Program.cs",
+              "RelativeToolTip": "Laboratorio7-2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:50:28.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\Laboratorio7\\Laboratorio7\\Banco.cs",
+              "RelativeDocumentMoniker": "Laboratorio7\\Banco.cs",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\Laboratorio7\\Laboratorio7\\Banco.cs",
+              "RelativeToolTip": "Laboratorio7\\Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:49:12.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\Laboratorio7\\Laboratorio7\\Cliente.cs",
+              "RelativeDocumentMoniker": "Laboratorio7\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\Laboratorio7\\Laboratorio7\\Cliente.cs",
+              "RelativeToolTip": "Laboratorio7\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:48:38.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\Laboratorio7\\Laboratorio7\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio7\\Program.cs",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\Laboratorio7\\Laboratorio7\\Program.cs",
+              "RelativeToolTip": "Laboratorio7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:44:12.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
