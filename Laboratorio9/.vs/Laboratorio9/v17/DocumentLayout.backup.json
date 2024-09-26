@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D20FF8-69ED-41B3-87DB-8E62AC3316D6}|Laboratorio9-5\\Laboratorio9-5.csproj|c:\\users\\topito_507\\source\\repos\\ds4\\laboratorio9\\laboratorio9-5\\aleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D20FF8-69ED-41B3-87DB-8E62AC3316D6}|Laboratorio9-5\\Laboratorio9-5.csproj|solutionrelative:laboratorio9-5\\aleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D20FF8-69ED-41B3-87DB-8E62AC3316D6}|Laboratorio9-5\\Laboratorio9-5.csproj|c:\\users\\topito_507\\source\\repos\\ds4\\laboratorio9\\laboratorio9-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D20FF8-69ED-41B3-87DB-8E62AC3316D6}|Laboratorio9-5\\Laboratorio9-5.csproj|solutionrelative:laboratorio9-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5981594-957A-46B3-9450-25BA071C5D9A}|Laboratorio9-4\\Laboratorio9-4.csproj|c:\\users\\topito_507\\source\\repos\\ds4\\laboratorio9\\laboratorio9-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5981594-957A-46B3-9450-25BA071C5D9A}|Laboratorio9-4\\Laboratorio9-4.csproj|solutionrelative:laboratorio9-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5981594-957A-46B3-9450-25BA071C5D9A}|Laboratorio9-4\\Laboratorio9-4.csproj|c:\\users\\topito_507\\source\\repos\\ds4\\laboratorio9\\laboratorio9-4\\random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5981594-957A-46B3-9450-25BA071C5D9A}|Laboratorio9-4\\Laboratorio9-4.csproj|solutionrelative:laboratorio9-4\\random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2D9255-4BFA-4E75-B4ED-61A64719AD09}|Laboratorio9-3\\Laboratorio9-3.csproj|c:\\users\\topito_507\\source\\repos\\ds4\\laboratorio9\\laboratorio9-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2D9255-4BFA-4E75-B4ED-61A64719AD09}|Laboratorio9-3\\Laboratorio9-3.csproj|solutionrelative:laboratorio9-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D81FC6-1333-4E93-A856-400E1ED87C38}|Laboratorio9-2\\Laboratorio9-2.csproj|c:\\users\\topito_507\\source\\repos\\ds4\\laboratorio9\\laboratorio9-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D81FC6-1333-4E93-A856-400E1ED87C38}|Laboratorio9-2\\Laboratorio9-2.csproj|solutionrelative:laboratorio9-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584E2BF-C19A-46E9-BF64-4CC074A0D468}|Laboratorio9\\Laboratorio9.csproj|c:\\users\\topito_507\\source\\repos\\ds4\\laboratorio9\\laboratorio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3584E2BF-C19A-46E9-BF64-4CC074A0D468}|Laboratorio9\\Laboratorio9.csproj|solutionrelative:laboratorio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aleatorios.cs",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9-5\\Aleatorios.cs",
+              "RelativeDocumentMoniker": "Laboratorio9-5\\Aleatorios.cs",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9-5\\Aleatorios.cs",
+              "RelativeToolTip": "Laboratorio9-5\\Aleatorios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:45:06.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9-5\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio9-5\\Program.cs",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9-5\\Program.cs",
+              "RelativeToolTip": "Laboratorio9-5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:44:44.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Random.cs",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9-4\\Random.cs",
+              "RelativeDocumentMoniker": "Laboratorio9-4\\Random.cs",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9-4\\Random.cs",
+              "RelativeToolTip": "Laboratorio9-4\\Random.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:41:02.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9-4\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio9-4\\Program.cs",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9-4\\Program.cs",
+              "RelativeToolTip": "Laboratorio9-4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:40:35.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9-3\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio9-3\\Program.cs",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9-3\\Program.cs",
+              "RelativeToolTip": "Laboratorio9-3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:40:06.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9-2\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio9-2\\Program.cs",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9-2\\Program.cs",
+              "RelativeToolTip": "Laboratorio9-2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:39:27.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio9\\Program.cs",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9\\Program.cs",
+              "RelativeToolTip": "Laboratorio9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:38:46.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
