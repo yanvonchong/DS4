@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB1A111-1922-44E3-90EB-4EE0FD0FDC9C}|Laboratorio10-2\\Laboratorio10-2.vbproj|c:\\users\\topito_507\\source\\repos\\ds4\\laboratorio10\\laboratorio10-2\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3DB1A111-1922-44E3-90EB-4EE0FD0FDC9C}|Laboratorio10-2\\Laboratorio10-2.vbproj|solutionrelative:laboratorio10-2\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E0E921-F607-48B6-A03B-A6A3A7BCDB91}|Laboratorio10-3\\Laboratorio10-3.vbproj|c:\\users\\topito_507\\source\\repos\\ds4\\laboratorio10\\laboratorio10-3\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E9E0E921-F607-48B6-A03B-A6A3A7BCDB91}|Laboratorio10-3\\Laboratorio10-3.vbproj|solutionrelative:laboratorio10-3\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E076BE-D5A6-4466-8FBA-6436E6663549}|Laboratorio10-4\\Laboratorio10-4.vbproj|c:\\users\\topito_507\\source\\repos\\ds4\\laboratorio10\\laboratorio10-4\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{29E076BE-D5A6-4466-8FBA-6436E6663549}|Laboratorio10-4\\Laboratorio10-4.vbproj|solutionrelative:laboratorio10-4\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E076BE-D5A6-4466-8FBA-6436E6663549}|Laboratorio10-4\\Laboratorio10-4.vbproj|c:\\users\\topito_507\\source\\repos\\ds4\\laboratorio10\\laboratorio10-4\\perro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{29E076BE-D5A6-4466-8FBA-6436E6663549}|Laboratorio10-4\\Laboratorio10-4.vbproj|solutionrelative:laboratorio10-4\\perro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A161F80E-D8A3-4CAA-97E2-45E2AE2781D1}|Laboratorio10\\Laboratorio10.vbproj|c:\\users\\topito_507\\source\\repos\\ds4\\laboratorio10\\laboratorio10\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A161F80E-D8A3-4CAA-97E2-45E2AE2781D1}|Laboratorio10\\Laboratorio10.vbproj|solutionrelative:laboratorio10\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Perro.vb",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10-4\\Perro.vb",
+              "RelativeDocumentMoniker": "Laboratorio10-4\\Perro.vb",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10-4\\Perro.vb",
+              "RelativeToolTip": "Laboratorio10-4\\Perro.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-26T02:59:08.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10-4\\Program.vb",
+              "RelativeDocumentMoniker": "Laboratorio10-4\\Program.vb",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10-4\\Program.vb",
+              "RelativeToolTip": "Laboratorio10-4\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-26T02:58:38.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10-3\\Program.vb",
+              "RelativeDocumentMoniker": "Laboratorio10-3\\Program.vb",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10-3\\Program.vb",
+              "RelativeToolTip": "Laboratorio10-3\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-26T02:58:12.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10-2\\Program.vb",
+              "RelativeDocumentMoniker": "Laboratorio10-2\\Program.vb",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10-2\\Program.vb",
+              "RelativeToolTip": "Laboratorio10-2\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-26T02:57:41.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10\\Program.vb",
+              "RelativeDocumentMoniker": "Laboratorio10\\Program.vb",
+              "ToolTip": "C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10\\Program.vb",
+              "RelativeToolTip": "Laboratorio10\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-26T02:55:41.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
