@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{5CDC8720-8940-4C28-A241-92214A8C1A92}|Laboratorio14\\Laboratorio14.csproj|solutionrelative:laboratorio14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CDC8720-8940-4C28-A241-92214A8C1A92}|Laboratorio14\\Laboratorio14.csproj|c:\\users\\topito_507\\source\\repos\\ds4\\laboratorio14\\laboratorio14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5CDC8720-8940-4C28-A241-92214A8C1A92}|Laboratorio14\\Laboratorio14.csproj|C:\\Users\\Topito_507\\source\\repos\\ds4\\Laboratorio14\\laboratorio14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5CDC8720-8940-4C28-A241-92214A8C1A92}|Laboratorio14\\Laboratorio14.csproj|solutionrelative:laboratorio14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -71,8 +71,7 @@
               "RelativeToolTip": "Laboratorio14\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T21:10:18.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T21:10:18.984Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Laboratorio14\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T21:10:02.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T21:10:02.8Z"
             }
           ]
         }

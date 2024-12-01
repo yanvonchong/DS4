@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LaboratorioMvc18.props" />
+</Project>
