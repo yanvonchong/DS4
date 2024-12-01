@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Laboratorio10-3"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da1d86b24de8419cc56fcccf24b634163a40ad9b"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f43bc7fdbbe0079821566bc06be9bd436240a4a"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Laboratorio10-3"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Laboratorio10-3"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
